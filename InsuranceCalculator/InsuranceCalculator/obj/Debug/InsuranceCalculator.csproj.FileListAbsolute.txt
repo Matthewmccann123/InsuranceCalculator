@@ -1,0 +1,13 @@
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\bin\Debug\InsuranceCalculator.exe.config
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.csprojResolveAssemblyReference.cache
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\App.g.cs
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator_MarkupCompile.cache
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.g.resources
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.Properties.Resources.resources
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.csproj.GenerateResource.Cache
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\bin\Debug\InsuranceCalculator.exe
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\bin\Debug\InsuranceCalculator.pdb
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.exe
+c:\users\matt-\onedrive\documents\visual studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.pdb
+C:\Users\matt-\OneDrive\Documents\Visual Studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.baml
+C:\Users\matt-\OneDrive\Documents\Visual Studio 2012\Projects\InsuranceCalculator\InsuranceCalculator\obj\Debug\InsuranceCalculator.g.cs
